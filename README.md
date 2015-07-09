@@ -14,27 +14,27 @@ type: lab
 ?: print "i am super excited about coding!".upper()
 
 [ ] "I Am Super Excited About Coding!"
-[ ] "I AM SUPER EXCITED ABOUT CODING!"
+[X] "I AM SUPER EXCITED ABOUT CODING!"
 [ ] "I aM sUPER eXCITED aBOUT cODING!"
 
 
 ?: print "Hi! My name is Joe".swapcase()
 
-[ ] "hI! mY NAME IS jOE"
+[X] "hI! mY NAME IS jOE"
 [ ] "HI! MY NAME IS JOE"
 [ ] "hi! my name is joe"
 
 
 ?: print len("short string")
 
-[ ] 12
+[X] 12
 [ ] 11
 [ ] 2
 
 ?: print "taylor swift".capitalize()
 [ ] TAYLOR swift
-[ ] Taylor swift
-[ ] Taylor swift
+[X] Taylor swift
+[ ] Taylor Swift
 
 ???
 
@@ -45,12 +45,12 @@ type: lab
 ?: Get enthusiastic about Python! How do I print out "I love Python" in all caps?
 
 [ ] "I love Python".swapcase()
-[ ] "I love Python".upper()
+[X] "I love Python".upper()
 [ ] "I love Python".uppercase()
 
 ?: Use a method to print out how long this sentence is: "This is a pretty long string. I wonder how long it is?"
 
-[ ] len("This is a pretty long string. I wonder how long it is?")
+[X] len("This is a pretty long string. I wonder how long it is?")
 [ ] "This is a pretty long string. I wonder how long it is?".swapcase()
 [ ] printlength("This is a pretty long string. I wonder how long it is?")
 
@@ -58,6 +58,6 @@ type: lab
 
 [ ] "make it capitalize the first letter in this string!".upper()
 [ ] "make it capitalize the first letter in this string!".swapcase()
-[ ] "make it capitalize the first letter in this string!".capitalize()
+[X] "make it capitalize the first letter in this string!".capitalize()
 
 ???
