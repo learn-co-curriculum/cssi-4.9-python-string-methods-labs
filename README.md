@@ -57,4 +57,4 @@
 
 ???
 
-<a href='https://learn.co/lessons/cssi-4.9-python-string-methods-labs' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.9-python-string-methods-labs' title='String Methods Interactive Practice'>String Methods Interactive Practice</a> on Learn.co and start learning to code for free.</p>
